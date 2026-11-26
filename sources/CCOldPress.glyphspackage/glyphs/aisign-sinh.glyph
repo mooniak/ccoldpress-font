@@ -1,0 +1,43 @@
+{
+category = Mark;
+glyphname = "aisign-sinh";
+layers = (
+{
+anchors = (
+{
+name = iisign;
+pos = (1130,0);
+},
+{
+name = isign;
+pos = (1130,0);
+},
+{
+name = usign;
+pos = (1130,0);
+},
+{
+name = uusign;
+pos = (1130,0);
+},
+{
+name = virama;
+pos = (1130,0);
+}
+);
+layerId = 2398F367-113C-4F16-A134-FDC022365366;
+shapes = (
+{
+ref = "esign-sinh";
+},
+{
+pos = (565,0);
+ref = "esign-sinh";
+}
+);
+width = 1130;
+}
+);
+subCategory = Spacing;
+unicode = 3547;
+}

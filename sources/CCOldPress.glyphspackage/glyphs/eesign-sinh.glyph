@@ -1,0 +1,21 @@
+{
+category = Mark;
+glyphname = "eesign-sinh";
+layers = (
+{
+layerId = 2398F367-113C-4F16-A134-FDC022365366;
+shapes = (
+{
+ref = "esign-sinh";
+},
+{
+pos = (565,0);
+ref = "virama-sinh";
+}
+);
+width = 565;
+}
+);
+subCategory = Spacing;
+unicode = 3546;
+}

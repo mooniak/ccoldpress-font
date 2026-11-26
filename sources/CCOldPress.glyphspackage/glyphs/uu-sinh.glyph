@@ -1,0 +1,41 @@
+{
+glyphname = "uu-sinh";
+layers = (
+{
+anchors = (
+{
+name = iisign;
+pos = (1271,0);
+},
+{
+name = isign;
+pos = (1271,0);
+},
+{
+name = usign;
+pos = (1271,0);
+},
+{
+name = uusign;
+pos = (1271,0);
+},
+{
+name = virama;
+pos = (1271,0);
+}
+);
+layerId = 2398F367-113C-4F16-A134-FDC022365366;
+shapes = (
+{
+ref = "u-sinh";
+},
+{
+pos = (826,0);
+ref = "vocaliclsign-sinh";
+}
+);
+width = 1271;
+}
+);
+unicode = 3468;
+}

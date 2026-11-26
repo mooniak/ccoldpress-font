@@ -1,0 +1,40 @@
+{
+glyphname = "kVa-sinh";
+layers = (
+{
+anchors = (
+{
+name = iisign;
+pos = (1364,0);
+},
+{
+name = isign;
+pos = (1364,0);
+},
+{
+name = usign;
+pos = (1364,0);
+},
+{
+name = uusign;
+pos = (1364,0);
+},
+{
+name = virama;
+pos = (1364,0);
+}
+);
+layerId = 2398F367-113C-4F16-A134-FDC022365366;
+shapes = (
+{
+ref = "k-sinh.touch";
+},
+{
+pos = (676,0);
+ref = "va-sinh";
+}
+);
+width = 1364;
+}
+);
+}

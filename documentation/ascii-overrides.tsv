@@ -1,0 +1,11 @@
+# CC Old Press deviations from the FM Abhaya layout (encodings/fm-abhaya.tsv in mooniak-font-tools).
+# Each was checked by rendering the glyph next to its FM neighbours (2026-11-26). Same columns as the table.
+# Slots on U+E000.. keep a drawing the table cannot name; typable on the PUA until the designer decides (mnik check items decide-*).
+key	unicode	text	role	name	context	note
+_	U+E000		latin			A small spiral mark drawn above the line (zero advance). PUA U+E000; designer to decide
+©	U+E001		latin			A letter-like drawing (FM has nothing here). PUA U+E001; designer to decide
+Û	U+E002		latin	logo		The words සිලොන් කැලිග්‍රපි (Ceylon Calligraphy) drawn as one glyph: a logo, not text. PUA U+E002; designer to decide
+µ	U+E003		latin			Drawn as a 9-like sign, not Roman i. PUA U+E003; designer to decide
+¶	U+E004		latin			Drawn as a ග-like letter, not Roman v. PUA U+E004; designer to decide
+½	U+E005		latin	ornament		A zigzag line ornament, not a second visarga. PUA U+E005; designer to decide
+³	U+2605	★	latin			A filled five-point star (the table has U+22C6 STAR OPERATOR). Visual
