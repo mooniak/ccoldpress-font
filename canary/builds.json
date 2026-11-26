@@ -1,0 +1,82 @@
+[
+ {
+  "family": "CCOldPress",
+  "commit": "e31ba2e4c1372b77d23faa0a0bf48ba5d63fcc0f",
+  "commit_short": "e31ba2e",
+  "version": "1.000",
+  "generated_at": "2026-11-26T15:17:41Z",
+  "stage": {
+   "n": 1,
+   "name": "Bootstrap",
+   "cumulative": 9,
+   "total": 110,
+   "gate_met": true,
+   "kernel_checkable_complete": false,
+   "kernel_complete": null,
+   "unverified_kernel_entries": [
+    "classic-conjuncts",
+    "conjunct-i-forms",
+    "ksha",
+    "rakaransaya",
+    "repaya",
+    "yansaya"
+   ]
+  },
+  "qa": {
+   "profile": "mooniak",
+   "verdict": "warn",
+   "pass_rate": 78,
+   "counts": {
+    "WARN": 14,
+    "SKIP": 51,
+    "INFO": 9,
+    "PASS": 81
+   },
+   "total_checks": 155
+  },
+  "run_url": "https://github.com/mooniak/ccoldpress-font/actions/runs/45847493614",
+  "ref_name": "dev",
+  "channel": "canary",
+  "repository": "mooniak/ccoldpress-font"
+ },
+ {
+  "family": "CCOldPress",
+  "commit": "d1f3749878b6274d98f5789aa3d341eb6668f984",
+  "commit_short": "d1f3749",
+  "version": "1.000",
+  "generated_at": "2026-11-26T07:20:26Z",
+  "stage": {
+   "n": 1,
+   "name": "Bootstrap",
+   "cumulative": 9,
+   "total": 110,
+   "gate_met": true,
+   "kernel_checkable_complete": false,
+   "kernel_complete": null,
+   "unverified_kernel_entries": [
+    "classic-conjuncts",
+    "conjunct-i-forms",
+    "ksha",
+    "rakaransaya",
+    "repaya",
+    "yansaya"
+   ]
+  },
+  "qa": {
+   "profile": "mooniak",
+   "verdict": "warn",
+   "pass_rate": 78,
+   "counts": {
+    "WARN": 14,
+    "SKIP": 51,
+    "INFO": 9,
+    "PASS": 81
+   },
+   "total_checks": 155
+  },
+  "run_url": "https://github.com/mooniak/ccoldpress-font/actions/runs/45774490913",
+  "ref_name": "dev",
+  "channel": "canary",
+  "repository": "mooniak/ccoldpress-font"
+ }
+]
