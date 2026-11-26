@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="q" format="2">
+  <advance width="4"/>
+  <unicode hex="0071"/>
+  <outline>
+    <contour>
+      <point x="-77.7021" y="200.417" type="curve" smooth="yes"/>
+      <point x="-74.6787" y="200.417"/>
+      <point x="-72.8301" y="97.6113"/>
+      <point x="-75.1826" y="-263.887" type="curve"/>
+      <point x="-95.8438" y="-261.535"/>
+      <point x="-116.338" y="-259.352"/>
+      <point x="-137" y="-257" type="curve" smooth="yes"/>
+      <point x="-203.856" y="-260.023"/>
+      <point x="-262.65" y="-262.543"/>
+      <point x="-311.029" y="-264.559" type="curve" smooth="yes"/>
+      <point x="-584.505" y="-275.981"/>
+      <point x="-627.173" y="-275.646"/>
+      <point x="-656.737" y="-241.881" type="curve" smooth="yes"/>
+      <point x="-707.133" y="-184.096"/>
+      <point x="-695.542" y="-56.0928"/>
+      <point x="-627.509" y="-11.2412" type="curve" smooth="yes"/>
+      <point x="-593.24" y="11.2686"/>
+      <point x="-533.942" y="20.0039"/>
+      <point x="-490.099" y="-8.88965" type="curve" smooth="yes"/>
+      <point x="-471.453" y="-21.1523"/>
+      <point x="-460.366" y="-37.1104"/>
+      <point x="-454.15" y="-48.1973" type="curve"/>
+      <point x="-459.19" y="-53.2373"/>
+      <point x="-464.229" y="-58.2764"/>
+      <point x="-469.27" y="-63.3154" type="curve"/>
+      <point x="-479.181" y="-54.0771"/>
+      <point x="-496.482" y="-40.6387"/>
+      <point x="-520.336" y="-36.7744" type="curve" smooth="yes"/>
+      <point x="-575.099" y="-27.8711"/>
+      <point x="-638.26" y="-72.2188"/>
+      <point x="-641.451" y="-120.766" type="curve" smooth="yes"/>
+      <point x="-644.475" y="-165.281"/>
+      <point x="-596.432" y="-199.214"/>
+      <point x="-586.018" y="-206.605" type="curve" smooth="yes"/>
+      <point x="-544.357" y="-236.002"/>
+      <point x="-494.299" y="-243.394"/>
+      <point x="-338.747" y="-226.763" type="curve" smooth="yes"/>
+      <point x="-282.137" y="-220.716"/>
+      <point x="-206.713" y="-210.973"/>
+      <point x="-117.85" y="-194.679" type="curve"/>
+      <point x="-117.85" y="-86.4971"/>
+      <point x="-118.018" y="21.5156"/>
+      <point x="-118.018" y="129.696" type="curve"/>
+      <point x="-110.963" y="135.071"/>
+      <point x="-102.563" y="142.967"/>
+      <point x="-95.3398" y="153.718" type="curve" smooth="yes"/>
+      <point x="-79.2139" y="177.571"/>
+      <point x="-79.2139" y="200.417"/>
+    </contour>
+  </outline>
+</glyph>
