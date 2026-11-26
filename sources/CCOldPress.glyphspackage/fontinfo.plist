@@ -3,89 +3,14 @@
 .formatVersion = 3;
 customParameters = (
 {
-name = hheaAscender;
-value = 937;
-},
-{
-name = hheaDescender;
-value = -317;
-},
-{
-name = hheaLineGap;
-value = 90;
+name = vendorID;
+value = MNIK;
 },
 {
 name = fsType;
 value = (
 );
 },
-{
-name = typoAscender;
-value = 800;
-},
-{
-name = typoDescender;
-value = -200;
-},
-{
-name = typoLineGap;
-value = 90;
-},
-{
-name = isFixedPitch;
-value = 0;
-},
-{
-name = versionString;
-value = "Version 1.000";
-},
-{
-name = vendorID;
-value = PfEd;
-},
-{
-name = postscriptFullName;
-value = CC_OldPress;
-},
-{
-name = postscriptFontName;
-value = CC_OldPress;
-},
-{
-name = openTypeOS2FamilyClass;
-value = (
-1,
-0
-);
-},
-{
-name = postscriptWeightName;
-value = Regular;
-},
-{
-name = styleMapFamilyName;
-value = CC_OldPress;
-},
-{
-name = styleMapStyleName;
-value = regular;
-},
-{
-name = winAscent;
-value = 937;
-},
-{
-name = winDescent;
-value = 317;
-},
-{
-name = weightClass;
-value = 400;
-},
-{
-name = widthClass;
-value = 5;
-}
 );
 date = "2019-06-02 14:48:23 +0000";
 familyName = CCOldPress;
@@ -262,89 +187,46 @@ fontMaster = (
 {
 customParameters = (
 {
+name = "Use Typo Metrics";
+value = 1;
+},
+{
 name = hheaAscender;
-value = 937;
+value = 960;
 },
 {
 name = hheaDescender;
-value = -317;
+value = -320;
 },
 {
 name = hheaLineGap;
-value = 90;
+value = 0;
+},
+{
+name = typoAscender;
+value = 960;
+},
+{
+name = typoDescender;
+value = -320;
+},
+{
+name = typoLineGap;
+value = 0;
+},
+{
+name = winAscent;
+value = 960;
+},
+{
+name = winDescent;
+value = 320;
 },
 {
 name = fsType;
 value = (
 );
 },
-{
-name = typoAscender;
-value = 800;
-},
-{
-name = typoDescender;
-value = -200;
-},
-{
-name = typoLineGap;
-value = 90;
-},
-{
-name = isFixedPitch;
-value = 0;
-},
-{
-name = versionString;
-value = "Version 1.000";
-},
-{
-name = vendorID;
-value = PfEd;
-},
-{
-name = postscriptFullName;
-value = CC_OldPress;
-},
-{
-name = postscriptFontName;
-value = CC_OldPress;
-},
-{
-name = openTypeOS2FamilyClass;
-value = (
-1,
-0
-);
-},
-{
-name = postscriptWeightName;
-value = Regular;
-},
-{
-name = styleMapFamilyName;
-value = CC_OldPress;
-},
-{
-name = styleMapStyleName;
-value = regular;
-},
-{
-name = winAscent;
-value = 937;
-},
-{
-name = winDescent;
-value = 317;
-},
-{
-name = weightClass;
-value = 400;
-},
-{
-name = widthClass;
-value = 5;
-}
 );
 id = "2398F367-113C-4F16-A134-FDC022365366";
 metricValues = (
@@ -367,9 +249,6 @@ pos = -200;
 }
 );
 name = Regular;
-userData = {
-com.schriftgestaltung.Glyphs.ufoNote = "2019-6-2: Created with FontForge (http://fontforge.org)";
-};
 }
 );
 instances = (
@@ -404,8 +283,39 @@ type = "italic angle";
 properties = (
 {
 key = copyrights;
-value = "Damith Welikala (C), 2019";
+values = (
+{
+language = dflt;
+value = "Copyright 2019 The CCOldPress Project Authors (https://github.com/mooniak/ccoldpress-font)";
 }
+);
+},
+{
+key = designers;
+values = (
+{
+language = dflt;
+value = "Damith Welikala";
+}
+);
+},
+{
+key = manufacturers;
+values = (
+{
+language = dflt;
+value = mooniak;
+}
+);
+},
+{
+key = designerURL;
+value = "http://www.mooniak.com/";
+},
+{
+key = manufacturerURL;
+value = "https://mooniak.com/";
+},
 );
 stems = (
 );
